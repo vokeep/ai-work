@@ -1,2 +1,2 @@
 # ai-work
-ai
+AI work
