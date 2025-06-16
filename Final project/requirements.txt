@@ -1,0 +1,4 @@
+autogen
+fastapi
+uvicorn
+sqlite3
