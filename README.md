@@ -1,2 +1,0 @@
-# ai-work
-AI work
